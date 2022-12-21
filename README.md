@@ -1,4 +1,10 @@
 - 👋 Hi, I’m @solidityFrance
+- Actually I am working hard with 4 projects:
+- 1: WEBSITE FOR ALL =====> Finish limited =====> 31 december 2022
+- 2: METAVERSE PROJECT ===> Finish limited =====> June/July 2023
+- 3: AI-MUSICAL PROJECT ==> Finish limited =====> December 2023
+- 4: CREATION NFT COLLECTION ===================> No limited times for that
+
 
 
 
