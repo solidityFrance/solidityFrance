@@ -7,17 +7,14 @@
 
 
 
+# Welcome! Badges Profile
+
+# Certification URL
+
+https://certificate.bcdiploma.com/check/26B25F013BFA58A2B92BA1425A8C715BC0E275231214D9EF2F762E7C5D41D11ESnNMS3YrNEoxdVlqQTd5eVR6emxEM3VKL3h1L0NkbitJNy9SbHkrRWJrY3NIcW45
 
 
-# Welcome! Badges README.md Profile
 
-Improve your README.md profile with these amazing badges. 
-
-## How to use?
-
-1. Get a URL
-2. Create a img tag `<img src="{BadgeURLHere}" />` or `![image]({BadgeURLHere})`
-3. Copy and paste on your profile
 
 ## Menu
 
