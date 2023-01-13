@@ -5,7 +5,7 @@
 - 3: AI-MUSICAL PROJECT ==> Finish limited =====> December 2023
 - 4: CREATION NFT COLLECTION ===================> No limited times for that
 
-
+TAKE A LOOK: https://prompts.chat/     FOR CHATGPT3 AND FINE OTHERS IN MY REPOSITORY
 
 # Welcome! Badges Profile
 
